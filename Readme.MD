@@ -10,3 +10,5 @@ https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.ht
 
 #Para ir viendo
 https://docs.github.com/en/actions/security-guides/encrypted-secrets
+
+https://www.digitalocean.com/community/tutorials?q=%5BKubernetes%5D

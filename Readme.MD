@@ -62,3 +62,16 @@ https://docs.ansible.com/ansible/latest/collections/community/docker/index.html
 ## Resuelto en 1 video?
 https://www.youtube.com/watch?v=iIQ62T-Gsxw
 https://www.youtube.com/watch?v=iKmY4jEiy_A
+
+
+## Ultimo update
+### Instalacion de AWX sobre minikube (no es lo mejor pero para preubas va)
+https://www.linuxtechi.com/how-to-install-minikube-on-ubuntu/
+https://www.linuxtechi.com/install-ansible-awx-on-ubuntu/
+
+Es posible correr AWX desde un contenedor? 
+Si, pero no recomendado, solo para pruebas
+Esto es por que reside en su naturaleza de operacion? 
+Usando la base de datos de ansible para "orquestar" los cambios?
+Y si lo quiero solo para las bases de datos de otros contenedores? 
+Solo las 

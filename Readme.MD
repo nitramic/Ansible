@@ -47,6 +47,7 @@ https://faun.pub/running-ansible-through-docker-b26399788e3e
 ### Funcionara (?)
 https://www.linuxtechi.com/install-ansible-awx-on-ubuntu/
 https://akshaybobade777.medium.com/setup-ansible-on-docker-containers-75b0707726bd
+https://learn.microsoft.com/en-us/azure/developer/ansible/configure-in-docker-container?tabs=azurepowershell
 
 ### Lectura para ansible
 https://docs.ansible.com/ansible/latest/getting_started/index.html
@@ -57,3 +58,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-an
 https://www.digitalocean.com/community/tutorials?q=%5BKubernetes%5D
 
 https://docs.ansible.com/ansible/latest/collections/community/docker/index.html
+
+## Resuelto en 1 video?
+https://www.youtube.com/watch?v=iIQ62T-Gsxw
+https://www.youtube.com/watch?v=iKmY4jEiy_A
